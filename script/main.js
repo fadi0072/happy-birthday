@@ -39,7 +39,7 @@ document.addEventListener("DOMContentLoaded", function () {
     "December",
   ];
 
-  const targetDay = 7; // Target day (January 7, 2025)
+  const targetDay = 8; // Target day (January 8, 2025)
   const targetMonthIndex = 0; // January (0-indexed)
   const targetYear = 2025; // Target year (2025)
   const birthYear = 1999; // Date of birth (January 7, 1999)
